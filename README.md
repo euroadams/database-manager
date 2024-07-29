@@ -67,7 +67,5 @@ while($row = $DBM->fetchRow($stmt)){
 ```
 
 
-
-> [!NOTE]
-> Explore the DataBaseManager class for other useful methods
+###  MORE DOCUMENTATION LOADING SOON :
 
