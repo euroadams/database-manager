@@ -384,7 +384,7 @@ class DataBaseManager{
 				
 				case 'chain_log': $chain = $logQuery = true; break; // Allow chaining on the object method and also log the query
 
-				case 'chain_count_log': $chain = $buildResCount = $logQuery = true; break; // Allow chaining on the object method, query log, result count build							
+				case 'chain_count_log': $chain = $buildResCount = $logQuery = true; break; // Allow chaining on the object method, query log and result count build							
 				
 			}
 			
